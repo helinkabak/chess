@@ -42,3 +42,4 @@ public class Bishop extends Piece{
         return this.getColor() == Color.WHITE ? "B" : "b";
     }
 }
+//JAVA COMMENT
